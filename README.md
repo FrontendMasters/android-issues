@@ -3,8 +3,8 @@
 Hello and welcome to the Frontend Masters Android issue repository! Please follow some simple guidelines for reporting issues.
 
 * Before reporting, please check the [existing issues](https://github.com/FrontendMasters/android-issues/issues) to make sure we're not creating duplicates.
-* If the issue already present, please add your experience to the existing issue
-* Use the template below when creating an issue
+* If the issue is already present, please add your experience to the existing issue
+* Use the template below when creating a new issue
 
 ## Issue Title
 Be as descriptive as possible when creating the issue title.
