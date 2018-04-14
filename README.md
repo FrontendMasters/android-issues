@@ -1,3 +1,11 @@
+# [Frontend Masters Android App](https://play.google.com/store/apps/details?id=in.mjg.frontendmasters.store) Public Issues Repository
+
+- Save videos to your device! Watch on-the-go, on or offline 📲 🚂 ✈️ (on the plane, or a train, or in space)
+- Access to our entire course catalog and new courses as they’re released.
+- Never lose where you’ve left off — progress syncs online and offline!
+
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=in.mjg.frontendmasters.store)
+
 # Android Issue Reporting Guidelines
 
 Hello and welcome to the Frontend Masters Android issue repository! Please follow some simple guidelines for reporting issues.
